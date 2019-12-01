@@ -1,0 +1,2 @@
+class Inmueble < ApplicationRecord
+end
